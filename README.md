@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DolphinSan
-- 👀 I’m interested in Mystert Novel
-- 🌱 I’m currently learning C
+- 👀 I’m interested in Mysterty Novel
+- 🌱 I’m still learning programming and will always do
 - 💞️ I’m Mahasiswa Skizo tingkatan akhir
 - 📫 +62812-2624-6335
 - 😄 Bojoku Nogo
