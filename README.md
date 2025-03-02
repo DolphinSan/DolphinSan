@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @DolphinSan
 - 👀 I’m interested in Mysterty Novel
 - 🌱 I’m still learning programming and will always do
-- 💞️ I’m Mahasiswa Skizo tingkatan akhir
+- 💞️ I’m Mahasiswa ITS Skizo tingkatan akhir
 - 📫 +62812-2624-6335
 - 😄 Bojoku Nogo
-- ⚡ Fun fact: Halu
+- ⚡ Fun fact: Tone Deaf
 
 <!---
 DolphinSan/DolphinSan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
