@@ -1,5 +1,10 @@
 <img src="https://media1.tenor.com/m/nJp1tBzLAo8AAAAC/arknights-dusk.gif" width="100%" />
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DolphinSan&show_icons=true&theme=tokyonight" />
+</p>
+
+
 ###👋 Hi, I’m @DolphinSan 
 - Also Known As Khalid or Diqi
 - 👀 I’m interested in Mysterty Novel
@@ -12,10 +17,6 @@
 <a href="https://youtu.be/xvFZjo5PgG0?si=tbsyjLybZEnzfIqG"> 
   <img src="https://media1.tenor.com/m/j6FJISmumJEAAAAd/arknights-nian.gif" width="100" /> 
 </a>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DolphinSan&show_icons=true&theme=tokyonight" />
-</p>
 
 
 
