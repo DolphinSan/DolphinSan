@@ -2,7 +2,7 @@
 - 👀 I’m interested in Mysterty Novel
 - 🌱 I’m still learning programming and will always do
 - 💞️ I’m Mahasiswa ITS Skizo tingkatan akhir
-- 📫 +62812-2624-6335
+- 📫 kakadiqi06@gmail.com
 - 😄 Bojoku Nogo
 - ⚡ Fun fact: Tone Deaf
 
