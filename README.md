@@ -5,7 +5,7 @@
 </p>
 
 
-###👋 Hi, I’m @DolphinSan 
+👋 Hi, I’m @DolphinSan 
 - Also Known As Khalid or Diqi
 - 👀 I’m interested in Mysterty Novel
 - 🌱 I’m still learning programming and will always do
