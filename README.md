@@ -9,7 +9,7 @@
 - 😄 Bojoku Nogo
 - ⚡ Fun fact: Tone Deaf
 
-[![Click Me](https://img.shields.io/badge/My%20Portfolio-Click%20Here-blue?style=for-the-badge)](https://youtu.be/xvFZjo5PgG0?si=tbsyjLybZEnzfIqG)
+[![Click Me](https://img.shields.io/badge/Klik%20Disini-Click%20Here-blue?style=for-the-badge)](https://youtu.be/xvFZjo5PgG0?si=tbsyjLybZEnzfIqG)
 
 
 <!---
