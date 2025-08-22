@@ -1,4 +1,4 @@
-<img src="https://media1.tenor.com/m/nJp1tBzLAo8AAAAC/arknights-dusk.gif" width="500" />
+<img src="https://media1.tenor.com/m/nJp1tBzLAo8AAAAC/arknights-dusk.gif" width="1000" />
 
 - 👋 Hi, I’m @DolphinSan <img src="https://media1.tenor.com/m/j6FJISmumJEAAAAd/arknights-nian.gif" width="25" />
 
