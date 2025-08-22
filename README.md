@@ -1,7 +1,6 @@
 <img src="https://media1.tenor.com/m/nJp1tBzLAo8AAAAC/arknights-dusk.gif" width="1000" />
 
-- 👋 Hi, I’m @DolphinSan <img src="https://media1.tenor.com/m/j6FJISmumJEAAAAd/arknights-nian.gif" width="25" />
-
+- 👋 Hi, I’m @DolphinSan 
 - 👀 I’m interested in Mysterty Novel
 - 🌱 I’m still learning programming and will always do
 - 💞️ I’m Mahasiswa ITS Skizo tingkatan akhir
@@ -9,7 +8,7 @@
 - 😄 Bojoku Nogo
 - ⚡ Fun fact: Tone Deaf
 
-[![Click Me](https://img.shields.io/badge/Klik%20Disini-Click%20Here-blue?style=for-the-badge)](https://youtu.be/xvFZjo5PgG0?si=tbsyjLybZEnzfIqG)
+[![Click Me](https://img.shields.io/badge/Klik%20Disini-Click%20Here-blue?style=for-the-badge)](https://youtu.be/xvFZjo5PgG0?si=tbsyjLybZEnzfIqG) <img src="https://media1.tenor.com/m/j6FJISmumJEAAAAd/arknights-nian.gif" width="25" />
 
 
 <!---
