@@ -1,3 +1,5 @@
+<img src="https://media1.tenor.com/m/nJp1tBzLAo8AAAAC/arknights-dusk.gif" width="50" />
+
 - 👋 Hi, I’m @DolphinSan
 - 👀 I’m interested in Mysterty Novel
 - 🌱 I’m still learning programming and will always do
