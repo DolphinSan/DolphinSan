@@ -9,7 +9,7 @@
 - ⚡ Fun fact: Tone Deaf
 
 <a href="https://youtu.be/xvFZjo5PgG0?si=tbsyjLybZEnzfIqG"> 
-  <img src="https://media1.tenor.com/m/j6FJISmumJEAAAAd/arknights-nian.gif" width="26" /> 
+  <img src="https://media1.tenor.com/m/j6FJISmumJEAAAAd/arknights-nian.gif" width="100" /> 
 </a>
 
 
