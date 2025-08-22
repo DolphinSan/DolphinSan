@@ -1,4 +1,4 @@
-<img src="https://media1.tenor.com/m/nJp1tBzLAo8AAAAC/arknights-dusk.gif" width="50" />
+<img src="https://media1.tenor.com/m/nJp1tBzLAo8AAAAC/arknights-dusk.gif" width="500" />
 
 - 👋 Hi, I’m @DolphinSan
 - 👀 I’m interested in Mysterty Novel
