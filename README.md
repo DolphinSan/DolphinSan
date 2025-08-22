@@ -9,6 +9,9 @@
 - 😄 Bojoku Nogo
 - ⚡ Fun fact: Tone Deaf
 
+[![Click Me](https://img.shields.io/badge/My%20Portfolio-Click%20Here-blue?style=for-the-badge)](https://youtu.be/xvFZjo5PgG0?si=tbsyjLybZEnzfIqG)
+
+
 <!---
 DolphinSan/DolphinSan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
