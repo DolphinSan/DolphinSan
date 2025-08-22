@@ -9,8 +9,8 @@
 - ⚡ Fun fact: Tone Deaf
 
 <a href="https://youtu.be/xvFZjo5PgG0?si=tbsyjLybZEnzfIqG">
-  <img src="https://img.shields.io/badge/Klik%20Disini-Click%20Here-blue?style=for-the-badge"> <img src="https://media1.tenor.com/m/j6FJISmumJEAAAAd/arknights-nian.gif" width="26" />
-</a>
+  <img src="https://img.shields.io/badge/Klik%20Disini-Click%20Here-blue?style=for-the-badge">
+</a> <img src="https://media1.tenor.com/m/j6FJISmumJEAAAAd/arknights-nian.gif" width="26" />
 
 
 <!---
