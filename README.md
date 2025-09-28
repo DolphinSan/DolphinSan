@@ -6,12 +6,12 @@
 
 
 👋 Hi, I’m @DolphinSan 
-- Also Known As Khalid or Diqi
+- Also Known As Khalid or Diqi 
 - 👀 I’m interested in Mysterty Novel
 - 🌱 I’m still learning programming and will always do
 - 💞️ I’m Mahasiswa ITS Skizo tingkatan akhir
 - 📫 kakadiqi06@gmail.com
-- 😄 Not alone anymore
+- 😄 Currently working in GameDev NLC
 - ⚡ Fun fact: Tone Deaf
 
 Speciality :
