@@ -11,8 +11,13 @@
 - 🌱 I’m still learning programming and will always do
 - 💞️ I’m Mahasiswa ITS Skizo tingkatan akhir
 - 📫 kakadiqi06@gmail.com
-- 😄 Bojoku Nogo
+- 😄 Not alone anymore
 - ⚡ Fun fact: Tone Deaf
+
+Speciality :
+- GameDev (Unity, Godot)
+- MobileDev (Android Studio)
+- Langguage (C#, GdScript, Kotlin, Java)
 
 <a href="https://youtu.be/xvFZjo5PgG0?si=tbsyjLybZEnzfIqG"> 
   <img src="https://media1.tenor.com/m/j6FJISmumJEAAAAd/arknights-nian.gif" width="100" /> 
